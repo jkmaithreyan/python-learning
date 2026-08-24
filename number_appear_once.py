@@ -1,5 +1,4 @@
 def num_appear_only_once(numbers):
-    result = []
 
     for num in numbers:
         if numbers.count(num) == 1:
