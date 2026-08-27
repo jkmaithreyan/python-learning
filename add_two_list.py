@@ -10,4 +10,3 @@ print(answer_list)
 
 
 
-
