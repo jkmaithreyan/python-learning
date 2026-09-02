@@ -1,0 +1,3 @@
+{"order_id": "O1", "item": "Dosa", "price": 90.0}
+{"order_id": "O2", "item": "Idly", "price": 54.0}
+{"order_id": "O3", "item": "Biryani", "price": 270.0}
